@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(17, 170, 177);
+}
+
+.bandera, .bandera p {
+  display: inline;
+  margin: 0px 10px;
+  padding: 10px 10px;
+}
+
+.amarillo{
+    background-color: rgb(221, 171, 22);
+    color: rgb(0, 0, 0);
+}
+
+.gris{
+    background-color: rgb(87, 87, 87);
+    color: rgb(255, 255, 255);
+}
+
+#texto-mayusculas{
+    text-transform:uppercase;
+}
